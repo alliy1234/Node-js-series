@@ -77,6 +77,8 @@ app.get('/update',async(req,res)=>{
 
 'hello i am ali butt'
 'dobara new text likha '
+'KIA HAL CHAL HA TUMHARA'
+
 
 app.listen(3000,function(req,res){
  console.log('it is running');
